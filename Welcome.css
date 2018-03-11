@@ -1,0 +1,54 @@
+html,
+body {
+font-family: 'Titillium Web', sans-serif;
+height: 100%;
+width: 100%;
+}
+
+.navbar-brand {
+font-family: 'Permanent Marker', cursive;
+font-size: 15px;
+text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+  background-position: center;
+  background-image: url("darkpc.jpg");
+  background-size: cover;
+  height: 100%;
+  padding-top: 100px;
+  }
+
+hr {
+  margin-top: 500px;
+  max-width: 100px;
+  border-width: 1.5px;
+  border-color: #1dd1e5; 
+}
+
+.jumbotron h1 {
+font-size: 3rem;
+margin-bottom: 5px;
+color: white; text-shadow: #1dd1e5 0.1em 0.1em 0.2em;
+}
+
+
+.navbar-text {
+font-family: 'Reenie Beanie', cursive;
+}
+
+.lead {
+font-family: 'Reenie Beanie', cursive;	
+color: #1dd1e5;
+}
+
+.btn {
+	color: #1dd1e5;
+	border-color: #1dd1e5;
+}
+
+.btn:hover {
+	color: #1dd1e5;
+
+}
